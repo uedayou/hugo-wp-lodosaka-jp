@@ -1,0 +1,131 @@
+# baseURL = "https://wp.lodosaka.jp/"
+title = "Linked Open Dataハッカソン関西"
+theme = "octpress"
+languageCode = "ja"
+hasCJKLanguage = "true"
+
+disablePathToLower = false
+paginate = 6
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[menu.main]]
+  Name = "About"
+  URL = "/about/"
+  weight = -10
+
+[[menu.main]]
+  Name = "イベント"
+  URL = "/event/"
+  weight = -9
+
+[[menu.main]]
+  Name = "関連イベント"
+  URL = "/other/"
+  weight = -9
+
+[[menu.main]]
+  Name = "ツール"
+  URL = "/tool/"
+  weight = -9
+
+[[menu.main]]
+  Name = "出版物"
+  URL = "/publications/"
+  weight = -8
+
+
+# sidebar menus
+# enable with "sidebar_menu_enabled = true" in [params]
+# header text is "sidebar_menu_header" in [params]
+
+
+[[menu.sidebar]]
+  Name = "Facebookグループ"
+  URL = "https://www.facebook.com/groups/592761284131510/"
+  weight = -5
+
+[[menu.sidebar]]
+  Name = "LODチャレンジ"
+  URL = "https://lodc.jp/"
+
+
+[permalinks]
+# Configures post URLs
+#  post = "/blog/:year-:month-:day-:title/"
+  news = "/news/:title/"
+
+[params]
+  # mainSections = ["news"]
+
+  # navigationNewWindow = true
+  sidebarRecentLimit = 5
+
+  sidebarHeader = "LODハッカソン関西について"
+
+  sidebarText = """
+Linked Open Dataの普及を目的に関西を中心に活動しています。<br />
+技術同人誌の発行も行っています。
+  """
+
+  sidebarMenuEnabled = true
+  sidebarMenuHeader = "関連サイト"
+
+  notfoundHeader = "404 Not Found"
+  notfoundText = """ページがありません  
+  [/](トップに戻る)."""
+
+
+  # If false, all contents of posts will appear on the front page and in pagination
+  truncate = true
+
+  # Author's name (appears in meta tags and under posts)
+  author = "LODハッカソン関西"
+
+  # This text appears in the site header under website title
+  subtitle = ""
+
+  # Search engine URL
+  searchEngineURL = "https://www.google.com/search"
+
+  # Text of the "Continue Reading" label. Supports markdown and inline HTML.
+  # For example, &rarr; == right arrow.
+  continueReadingText = "Would you like to know more? &rarr;"
+
+  # Google analytics code - remove if you do not have/want Google Analytics - needs JavaScript
+  googleAnalytics = "UA-XXXXX-X"
+
+  # Optional piwik tracking
+  #[params.analytics.piwik]
+  #  URL = "https://stats.example.com"
+  #  ID = "42"
+
+  # Switch to true to enable RSS icon link
+  rss = true
+
+  # Set to true to use a text label for RSS instead of an icon
+  # This is overwritten by the "rss" setting
+  textrss = false
+
+  # Website's default description
+  description = "Linked Open Dataの普及を目的に関西を中心に活動しています。技術同人誌の発行も行っています。"
+
+  # Populate with your search keywords - these will appear in meta tags
+  # defaultKeywords = ["keyword1" , "keyword2" , "keyword3" , "keyword4"]
+
+  # Set to true to hide ReadingTime on posts
+  disableReadingTime = false
+
+  # Set to true to disable downloading of remote Google fonts
+  disableGoogleFonts = false
+
+  # Remove or set to false to use local fonts
+  remoteFonts = false
+
+  # Remove or set to false to use FontAwesome CDN, otherwise, the theme uses ForkAwesome local fonts.
+  # fontAwesome = false
+
+  # twitterCardEnabled = true
+  images = ["/wp-content/uploads/2015/01/logo02.png"]
+
