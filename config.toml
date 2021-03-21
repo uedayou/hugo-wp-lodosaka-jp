@@ -1,5 +1,7 @@
 # baseURL = "https://wp.lodosaka.jp/"
-baseURL = "https://uedayou.github.io/hugo-wp-lodosaka-jp/"
+# baseURL = "https://uedayou.github.io/hugo-wp-lodosaka-jp/"
+relativeURLS = true
+
 title = "Linked Open Dataハッカソン関西"
 theme = "octpress"
 languageCode = "ja"
