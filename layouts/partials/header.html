@@ -9,7 +9,7 @@
   {{ if not .Site.Params.disableGoogleFonts }}
     <!-- if local Google fonts are enabled -->
     {{ if not .Site.Params.remoteFonts }}
-      <link href="/css/fonts.css" rel="stylesheet" type="text/css">
+      <link href="{{ $.Site.BaseURL }}css/fonts.css" rel="stylesheet" type="text/css">
     {{ else }}
       <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
       <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -21,7 +21,7 @@
 
   <!-- css -->
   <!-- original css -->
-  <link rel="stylesheet" href="/css/lodosaka.css">
+  <link rel="stylesheet" href="{{ $.Site.BaseURL }}css/lodosaka.css">
 
   <!-- css overrides -->
   {{ range .Site.Params.customCSS }}
