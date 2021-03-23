@@ -2,7 +2,7 @@
 title: 第4回Linked Open Dataハッカソン関西 with LODC2014 × UDC2014
 author: webmaster
 type: page
-date: 2014-12-12T04:02:39+00:00
+date: 2014-12-12T04:02:39+09:00
 ---
 
 第4回Linked Open Dataハッカソン関西 は、LODチャレンジJapan と アーバンデータチャレンジとの共催イベントとして開催しました。  

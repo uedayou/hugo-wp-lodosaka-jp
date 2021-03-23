@@ -2,7 +2,7 @@
 title: LODを作る
 author: webmaster
 type: page
-date: 2015-01-20T00:45:36+00:00
+date: 2015-01-20T00:45:36+09:00
 ---
 
 Linked Open Data(LOD)を作るには、

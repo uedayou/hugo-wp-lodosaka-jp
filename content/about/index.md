@@ -2,7 +2,7 @@
 title: LODハッカソン関西とは
 author: webmaster
 type: page
-date: 2015-01-06T10:20:06+00:00
+date: 2015-01-06T10:20:06+09:00
 "rdfs:label":
   - WPLODIのテストです
 "foaf:homepage":

@@ -2,7 +2,7 @@
 title: 第2回Linked Open Dataハッカソン関西 in 大阪
 author: webmaster
 type: page
-date: 2014-12-15T06:54:58+00:00
+date: 2014-12-15T06:54:58+09:00
 ---
 
 第2回 Linked Open Data ハッカソン関西 in 大阪は第7回LODチャレンジデーと第3回オープンデータとソーシャルデザイン研究会として2013年12月6、7日に開催しました。  

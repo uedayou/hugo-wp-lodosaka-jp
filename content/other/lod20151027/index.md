@@ -2,7 +2,7 @@
 title: 第4回Linked Open Dataとオントロジー勉強会(SPARQL勉強会)
 author: webmaster
 type: page
-date: 2015-10-07T11:39:28+00:00
+date: 2015-10-07T11:39:28+09:00
 ---
 
 ### 日時:

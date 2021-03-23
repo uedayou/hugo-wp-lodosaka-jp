@@ -1,5 +1,5 @@
 # baseURL = "https://wp.lodosaka.jp/"
-baseURL = "https://hug-lodosaka.uedayou.net/"
+baseURL = "https://hugo-lodosaka.uedayou.net/"
 
 title = "Linked Open Dataハッカソン関西"
 theme = "octpress"
@@ -96,7 +96,7 @@ Linked Open Dataの普及を目的に関西を中心に活動しています。<
   continueReadingText = "Would you like to know more? &rarr;"
 
   # Google analytics code - remove if you do not have/want Google Analytics - needs JavaScript
-  googleAnalytics = "UA-XXXXX-X"
+  googleAnalytics = "UA-58675837-1"
 
   # Optional piwik tracking
   #[params.analytics.piwik]

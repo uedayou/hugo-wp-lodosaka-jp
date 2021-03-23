@@ -2,7 +2,7 @@
 title: LODを検索する
 author: webmaster
 type: page
-date: 2015-01-20T00:46:57+00:00
+date: 2015-01-20T00:46:57+09:00
 ---
 
 Linked Open Data(LOD)で公開するサイトには、データをRDFデータベース(RDFストア)に格納して検索機能も併せて提供しているところがあります。  

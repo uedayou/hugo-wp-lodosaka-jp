@@ -2,7 +2,7 @@
 title: 第3回Linked Open Dataハッカソン関西
 author: webmaster
 type: page
-date: 2014-12-12T04:03:40+00:00
+date: 2014-12-12T04:03:40+09:00
 ---
 
 第3回Linked Open Dataハッカソン関西は、インターナショナルー分データデイ2014の  

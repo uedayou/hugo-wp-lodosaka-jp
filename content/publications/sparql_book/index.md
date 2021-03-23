@@ -2,7 +2,7 @@
 title: 技術同人誌『SPARQLでオープンデータ検索！』
 author: webmaster
 type: page
-date: 2019-09-19T05:28:55+00:00
+date: 2019-09-19T05:28:55+09:00
 ---
 
 <center>

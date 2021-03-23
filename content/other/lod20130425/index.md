@@ -2,7 +2,7 @@
 title: 第1回Linked Open Dataとオントロジー勉強会
 author: webmaster
 type: page
-date: 2015-01-29T07:36:08+00:00
+date: 2015-01-29T07:36:08+09:00
 ---
 
 ### 日時:

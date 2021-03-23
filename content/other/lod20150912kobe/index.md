@@ -2,7 +2,7 @@
 title: 第1回 LOD Challenge Day KOBE 2015
 author: webmaster
 type: page
-date: 2015-09-11T05:57:23+00:00
+date: 2015-09-11T05:57:23+09:00
 ---
 
 2015年9月12日に[公益財団法人ひょうご産業活性化センター][1]で「[第1回 LOD Challenge Day KOBE 2015][2]」を行いました。

@@ -2,7 +2,7 @@
 title: 関西オープンデータEXPO’15～ハンズオンB～
 author: webmaster
 type: page
-date: 2015-02-10T10:01:11+00:00
+date: 2015-02-10T10:01:11+09:00
 ---
 
 ## 体験！Linked Open Data 〜オープンデータを作成・公開・活用してみよう〜

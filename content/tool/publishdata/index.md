@@ -2,7 +2,7 @@
 title: LODを公開する
 author: webmaster
 type: page
-date: 2015-01-20T03:46:01+00:00
+date: 2015-01-20T03:46:01+09:00
 ---
 
 Linked Open Data(LOD)は、

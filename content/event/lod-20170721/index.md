@@ -2,7 +2,7 @@
 title: 第1回オープンデータ情報交換会
 author: webmaster
 type: page
-date: 2017-07-03T01:01:02+00:00
+date: 2017-07-03T01:01:02+09:00
 featured_image: http://wp.lodosaka.jp/wp-content/uploads/2017/07/lodc_icon.png
 ---
 

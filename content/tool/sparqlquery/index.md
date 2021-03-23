@@ -2,7 +2,7 @@
 title: SPARQLクエリ集
 author: webmaster
 type: page
-date: 2015-10-19T03:29:32+00:00
+date: 2015-10-19T03:29:32+09:00
 ---
 
 ## 基本的なSPARQLクエリ
