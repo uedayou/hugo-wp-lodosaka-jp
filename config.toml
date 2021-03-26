@@ -92,7 +92,7 @@ Linked Open Dataの普及を目的に関西を中心に活動しています。<
 
   # Text of the "Continue Reading" label. Supports markdown and inline HTML.
   # For example, &rarr; == right arrow.
-  continueReadingText = "Would you like to know more? &rarr;"
+  continueReadingText = "続きを読む &rarr;"
 
   # Google analytics code - remove if you do not have/want Google Analytics - needs JavaScript
   googleAnalytics = "UA-58675837-1"
