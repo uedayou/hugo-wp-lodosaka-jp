@@ -259,7 +259,8 @@ h6 {
 }
 h2,
 section h1 {
-    font-size: 1.5em
+    font-size: 1.5em;
+    margin : 2em 0
 }
 h3,
 section h2,
@@ -1305,7 +1306,7 @@ pre {
     border-radius: 0.0em;
     line-height: 1.45em;
     margin-bottom: 0.8em;
-    padding: 0em 0em;
+    padding: 1em 1.5em;
     color: #93a1a1;
     font-size: 80%;  /* change the code font size */
 
